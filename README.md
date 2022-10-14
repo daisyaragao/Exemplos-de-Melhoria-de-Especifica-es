@@ -1,0 +1,2 @@
+# Exemplos_de_Melhoria_de_Especificacoes_Funcionais
+ Especificação elaborada com o objetivo de descrever com precisão as necessidades do cliente. A reformulação ocorreu como garantia de uma melhor estruturação técnica, incluindo detalhes descritivos para favorecer simultanemente o time de desenvolvimento e oo usuário. Neste caso, são apresentados na funcional, aspectos de negócios, bem como a sua implementação e organização.
